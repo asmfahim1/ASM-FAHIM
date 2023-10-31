@@ -14,7 +14,6 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-/*- 💻 &nbsp;*/
 - 🌐 &nbsp;
   ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
