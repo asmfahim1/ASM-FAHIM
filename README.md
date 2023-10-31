@@ -6,41 +6,44 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studied Computer Science and engineering at Bangladesh Army Interational University of Science and Technology.
-- 💼 &nbsp; Selopia
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Animation and Drawing as hobbies/side hustles.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 🎓 &nbsp; From Computer Science & Engineering background in BSc and ICT in MSc
+- 💼 &nbsp; Inflack Limited
+- 🌱 &nbsp; Learning more about Embedded System, Big Data, Face Detection & Recognition, Machine Learning Kit and Tensorflow.
+- ✍️ &nbsp; R&D with Sales force solution and Machine learning kit for mobile application.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
 - 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
+  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
+  ![PHP](https://img.shields.io/badge/-Php-333333?style=flat&logo=php)
+  ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)
+  ![Latex](https://img.shields.io/badge/-Latex-333333?style=flat&logo=latex)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c++)
+  
 - 🛢 &nbsp;
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
+  ![XMPP](https://img.shields.io/badge/-Xmpp-333333?style=flat&logo=xmpp)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
+  ![Android Studio](https://img.shields.io/badge/-Android%20studio-333333?style=flat&logo=android%20studio)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Blender](https://img.shields.io/badge/-Blender-333333?style=flat&logo=blender)
+  ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity)
 - 🖥 &nbsp;
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![An](https://img.shields.io/badge/-Animate-333333?style=flat&logo=adobe-animate)
+  ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva)
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-  ![krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/k-m-amaz-uddin-shaon-a180a822b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-K%20M%20Amaz%20Uddin%20Shaon-blue?style=flat-square&logo=linkedin"></a>
-<a href=https://www.instagram.com/k_m_amaz"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-k_m_amaz_-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:kmamaz1997@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kmamaz1997@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/asm-fahim/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ASM%20FAHIM-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:asmfahim1@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-asmfahim1@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
